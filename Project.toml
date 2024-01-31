@@ -3,6 +3,9 @@ uuid = "535801fb-f111-46ae-9ca1-e640473de715"
 authors = ["ChromatinRemodeling <56991815+ChromatinRemodeling@users.noreply.github.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 [compat]
 julia = "1"
 

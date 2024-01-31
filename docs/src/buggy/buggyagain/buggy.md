@@ -1,0 +1,3 @@
+# buggy
+
+![](bugtest.png)

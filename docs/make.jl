@@ -1,0 +1,2 @@
+using Documenter
+makedocs(remotes = nothing, sitename = "test", format = Documenter.LaTeX(platform = "none"), pages = ["Home" => "index.md", "Buggy" => Any["BuggingMe" => "buggy/buggyagain/buggy.md"]], build = "build-pdf")
